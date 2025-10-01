@@ -13,8 +13,6 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
-    {"name":"character_sprites","order":2,"path":"folders/Sprites/character_sprites.yy",},
-    {"name":"main_menu_sprites","order":1,"path":"folders/Sprites/main_menu_sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
