@@ -23,6 +23,9 @@
     {"name":"player_sprites","order":2,"path":"folders/Sprites/character_sprites/player_sprites.yy",},
     {"name":"main_menu_sprites","order":1,"path":"folders/Sprites/main_menu_sprites.yy",},
     {"name":"starting_room_sprites","order":3,"path":"folders/Sprites/starting_room_sprites.yy",},
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
