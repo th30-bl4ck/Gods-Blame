@@ -26,8 +26,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"back_to_game_button","order":2,"path":"objects/back_to_game_button/back_to_game_button.yy",},
     {"name":"button_parent","order":1,"path":"objects/button_parent/button_parent.yy",},
     {"name":"enemy_object","order":1,"path":"objects/enemy_object/enemy_object.yy",},
+    {"name":"pause_screen","order":2,"path":"rooms/pause_screen/pause_screen.yy",},
     {"name":"starting_room","order":1,"path":"rooms/starting_room/starting_room.yy",},
   ],
 }

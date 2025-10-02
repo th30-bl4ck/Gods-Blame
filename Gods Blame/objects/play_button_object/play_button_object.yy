@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"basic_button_object",
+  "%Name":"play_button_object",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"basic_button_object",
+  "name":"play_button_object",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"button_parent","path":"objects/button_parent/button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/button_parent/button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Play",},
   ],
