@@ -1,14 +1,14 @@
 {
   "$GMObject":"",
-  "%Name":"back_to_game_button",
+  "%Name":"continue_button",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"back_to_game_button",
+  "name":"continue_button",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"button_parent","path":"objects/button_parent/button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/button_parent/button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Back To Game",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"button_parent","path":"objects/button_parent/button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/button_parent/button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Continue",},
   ],
   "parent":{
     "name":"main_menu_objects",
