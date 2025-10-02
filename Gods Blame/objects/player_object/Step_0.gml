@@ -34,7 +34,11 @@ if (place_meeting(x, y + vsp, ground_object)) {
 }
 y += vsp;
 
-if (keyboard_check_pressed(vk_escape)) {
-    room_goto(pause_screen);
+if (!variable_global_exists("paused") || !global.paused) {
+    // normal movement / gameplay code here
 }
 
+
+if (!global.paused) {
+    // movement, shooting, AI, etc.
+}
