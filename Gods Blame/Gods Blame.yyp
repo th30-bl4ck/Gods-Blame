@@ -48,7 +48,6 @@
     {"id":{"name":"menu_font","path":"fonts/menu_font/menu_font.yy",},},
     {"id":{"name":"button_parent","path":"objects/button_parent/button_parent.yy",},},
     {"id":{"name":"continue_button","path":"objects/continue_button/continue_button.yy",},},
-    {"id":{"name":"controller_object","path":"objects/controller_object/controller_object.yy",},},
     {"id":{"name":"enemy_object","path":"objects/enemy_object/enemy_object.yy",},},
     {"id":{"name":"ground_object","path":"objects/ground_object/ground_object.yy",},},
     {"id":{"name":"play_button_object","path":"objects/play_button_object/play_button_object.yy",},},
