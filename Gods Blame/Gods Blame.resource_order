@@ -19,6 +19,7 @@
     {"name":"character_sprites","order":2,"path":"folders/Sprites/character_sprites.yy",},
     {"name":"enemy_sprites","order":1,"path":"folders/Sprites/character_sprites/enemy_sprites.yy",},
     {"name":"player_sprites","order":2,"path":"folders/Sprites/character_sprites/player_sprites.yy",},
+    {"name":"UI_sprites","order":4,"path":"folders/Sprites/UI_sprites.yy",},
     {"name":"main_menu_sprites","order":1,"path":"folders/Sprites/main_menu_sprites.yy",},
     {"name":"starting_room_sprites","order":3,"path":"folders/Sprites/starting_room_sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
