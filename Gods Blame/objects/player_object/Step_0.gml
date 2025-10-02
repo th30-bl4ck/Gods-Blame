@@ -33,3 +33,7 @@ if (place_meeting(x, y + vsp, ground_object)) {
     vsp = 0;
 }
 y += vsp;
+
+if (keyboard_check_pressed(vk_escape)) {
+    room_goto(pause_screen);
+}
