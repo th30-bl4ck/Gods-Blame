@@ -38,7 +38,3 @@ if (!variable_global_exists("paused") || !global.paused) {
     // normal movement / gameplay code here
 }
 
-
-if (!global.paused) {
-    // movement, shooting, AI, etc.
-}
