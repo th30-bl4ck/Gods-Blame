@@ -30,7 +30,7 @@
     {"name":"button_parent","order":1,"path":"objects/button_parent/button_parent.yy",},
     {"name":"continue_button","order":2,"path":"objects/continue_button/continue_button.yy",},
     {"name":"enemy_object","order":1,"path":"objects/enemy_object/enemy_object.yy",},
-    {"name":"pause_screen","order":2,"path":"rooms/pause_screen/pause_screen.yy",},
+    {"name":"pause_screen_room","order":2,"path":"rooms/pause_screen_room/pause_screen_room.yy",},
     {"name":"starting_room","order":1,"path":"rooms/starting_room/starting_room.yy",},
   ],
 }

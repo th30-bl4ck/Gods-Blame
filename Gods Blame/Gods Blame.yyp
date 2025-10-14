@@ -53,7 +53,7 @@
     {"id":{"name":"play_button_object","path":"objects/play_button_object/play_button_object.yy",},},
     {"id":{"name":"player_object","path":"objects/player_object/player_object.yy",},},
     {"id":{"name":"main_menu_room","path":"rooms/main_menu_room/main_menu_room.yy",},},
-    {"id":{"name":"pause_screen","path":"rooms/pause_screen/pause_screen.yy",},},
+    {"id":{"name":"pause_screen_room","path":"rooms/pause_screen_room/pause_screen_room.yy",},},
     {"id":{"name":"starting_room","path":"rooms/starting_room/starting_room.yy",},},
     {"id":{"name":"basic_button_sprite","path":"sprites/basic_button_sprite/basic_button_sprite.yy",},},
     {"id":{"name":"basic_enemy_sprite","path":"sprites/basic_enemy_sprite/basic_enemy_sprite.yy",},},
@@ -65,7 +65,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"main_menu_room","path":"rooms/main_menu_room/main_menu_room.yy",},},
     {"roomId":{"name":"starting_room","path":"rooms/starting_room/starting_room.yy",},},
-    {"roomId":{"name":"pause_screen","path":"rooms/pause_screen/pause_screen.yy",},},
+    {"roomId":{"name":"pause_screen_room","path":"rooms/pause_screen_room/pause_screen_room.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
