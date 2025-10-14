@@ -1,10 +1,13 @@
-// Get distance between enemy and player
+
+if (frozen) {
+    exit; // 💥 this stops everything for this object
+}
+
+// your normal movement code here
 if (instance_exists(player_object)) {
-    // Horizontal chasing
     if (x < player_object.x) {
-        x += 2; // move right
-    }
-    if (x > player_object.x) {
-        x -= 2; // move left
+        x += 2;
+    } else if (x > player_object.x) {
+        x -= 2;
     }
 }
