@@ -6,6 +6,7 @@
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"character_objects","order":3,"path":"folders/Objects/character_objects.yy",},
+    {"name":"invisible_objects","order":5,"path":"folders/Objects/invisible_objects.yy",},
     {"name":"main_menu_objects","order":1,"path":"folders/Objects/main_menu_objects.yy",},
     {"name":"starting_room_objects","order":2,"path":"folders/Objects/starting_room_objects.yy",},
     {"name":"UI_objects","order":4,"path":"folders/Objects/UI_objects.yy",},
@@ -30,7 +31,8 @@
     {"name":"button_parent","order":1,"path":"objects/button_parent/button_parent.yy",},
     {"name":"continue_button","order":2,"path":"objects/continue_button/continue_button.yy",},
     {"name":"enemy_object","order":1,"path":"objects/enemy_object/enemy_object.yy",},
-    {"name":"pause_screen","order":2,"path":"rooms/pause_screen/pause_screen.yy",},
+    {"name":"pause_screen_room","order":2,"path":"rooms/pause_screen_room/pause_screen_room.yy",},
     {"name":"starting_room","order":1,"path":"rooms/starting_room/starting_room.yy",},
+    {"name":"invisible_wall_sprite","order":1,"path":"sprites/invisible_wall_sprite/invisible_wall_sprite.yy",},
   ],
 }

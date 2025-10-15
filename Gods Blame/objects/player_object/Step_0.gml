@@ -153,3 +153,4 @@ if (e != noone && !is_knocked) {
     // STUN THE ENEMY
     e.stun_timer = e.stun_duration;
 }
+

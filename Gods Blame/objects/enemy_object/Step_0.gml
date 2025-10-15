@@ -1,6 +1,6 @@
 
 if (frozen) {
-    exit; // 💥 this stops everything for this object
+    exit; //  this stops everything for this object
 }
 
 // your normal movement code here
