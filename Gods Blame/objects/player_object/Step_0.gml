@@ -154,3 +154,24 @@ if (e != noone && !is_knocked) {
     e.stun_timer = e.stun_duration;
 }
 
+// Store the camera ID
+cam = view_camera[0];
+
+// Current camera size
+var w = camera_get_view_width(cam);
+var h = camera_get_view_height(cam);
+
+// Target zoom level (smaller size = zoom in)
+var zoom = 0.5; // 0.5 = zoom in 2x, 1 = normal, 2 = zoom out
+
+// Calculate new size
+var new_w = room_width * zoom;
+var new_h = room_height * zoom;
+
+// Apply zoom
+camera_set_view_size(cam, new_w, new_h);
+
+var target_x = player_object.x - camera_get_view_width(cam)/2;
+var target_y = player_object.y - camera_get_view_height(cam)/2;
+
+camera_set_view_pos(cam, target_x, target_y);
