@@ -34,6 +34,24 @@ if (place_meeting(x, y + vsp, ground_object)) {
 }
 y += vsp;
 
+
+// Jump when SPACE is pressed
+if (keyboard_check_pressed(vk_space)) {
+    if (place_meeting(x, y + 1, platform_object)) {
+        vsp = jump_speed; // go upwards
+    }
+}
+
+// Vertical movement with collision
+if (place_meeting(x, y + vsp, platform_object)) {
+    // Stop right at the solid
+    while (!place_meeting(x, y + sign(vsp), platform_object)) {
+        y += sign(vsp);
+    }
+    vsp = 0;
+}
+y += vsp;
+
 // --- KNOCKBACK HANDLING ---
 if (is_knocked) {
     // Apply knockback velocity
