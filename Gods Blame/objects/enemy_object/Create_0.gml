@@ -1,5 +1,5 @@
 // Movement settings
-move_speed = 2;
+move_speed = 1.5;
 
 frozen = false;     // this will stop all movement when true
 

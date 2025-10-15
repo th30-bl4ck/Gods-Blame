@@ -34,10 +34,6 @@ if (place_meeting(x, y + vsp, ground_object)) {
 }
 y += vsp;
 
-if (!variable_global_exists("paused") || !global.paused) {
-    // normal movement / gameplay code here
-}
-
 // --- KNOCKBACK HANDLING ---
 if (is_knocked) {
     // Apply knockback velocity
