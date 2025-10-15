@@ -31,8 +31,10 @@
     {"name":"button_parent","order":1,"path":"objects/button_parent/button_parent.yy",},
     {"name":"continue_button","order":2,"path":"objects/continue_button/continue_button.yy",},
     {"name":"enemy_object","order":1,"path":"objects/enemy_object/enemy_object.yy",},
+    {"name":"platform_object","order":1,"path":"objects/platform_object/platform_object.yy",},
     {"name":"pause_screen_room","order":2,"path":"rooms/pause_screen_room/pause_screen_room.yy",},
     {"name":"starting_room","order":1,"path":"rooms/starting_room/starting_room.yy",},
     {"name":"invisible_wall_sprite","order":1,"path":"sprites/invisible_wall_sprite/invisible_wall_sprite.yy",},
+    {"name":"platform_sprite","order":2,"path":"sprites/platform_sprite/platform_sprite.yy",},
   ],
 }
