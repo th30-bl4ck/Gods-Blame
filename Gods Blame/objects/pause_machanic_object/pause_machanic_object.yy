@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"player_object",
+  "%Name":"pause_machanic_object",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"enemy_object","path":"objects/enemy_object/enemy_object.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"player_object",
+  "name":"pause_machanic_object",
   "overriddenProperties":[],
   "parent":{
-    "name":"character_objects",
-    "path":"folders/Objects/character_objects.yy",
+    "name":"invisible_objects",
+    "path":"folders/Objects/invisible_objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,11 +30,8 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
-  "spriteId":{
-    "name":"player_sprite_idle",
-    "path":"sprites/player_sprite_idle/player_sprite_idle.yy",
-  },
+  "solid":false,
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
