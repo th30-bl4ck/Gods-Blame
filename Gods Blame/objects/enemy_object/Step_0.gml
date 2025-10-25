@@ -8,7 +8,7 @@ if (instance_exists(player_object)) {
     var dist = point_distance(x, y, player_object.x, player_object.y);
 
     // how close before stopping
-    var stop_distance = 45; // stop moving when this close
+    var stop_distance = 5; // stop moving when this close
     var start_distance = 350; // start moving when this close (you can change this)
 
     // only follow the player if they're within the start distance
