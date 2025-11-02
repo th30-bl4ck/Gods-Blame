@@ -1,4 +1,4 @@
-if (keyboard_check_released(vk_tab)) {
+if (keyboard_check_released(vk_escape)) {
     game_pause = !game_pause; // toggle pause
 
     if (game_pause) {
