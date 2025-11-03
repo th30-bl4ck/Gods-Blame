@@ -176,7 +176,7 @@ var w = camera_get_view_width(cam);
 var h = camera_get_view_height(cam);
 
 // Target zoom level (smaller size = zoom in)
-var zoom = 0.5; // 0.5 = zoom in 2x, 1 = normal, 2 = zoom out
+var zoom = 0.35; // 0.5 = zoom in 2x, 1 = normal, 2 = zoom out
 
 // Calculate new size
 var new_w = room_width * zoom;
