@@ -47,6 +47,7 @@
   "name":"Gods Blame",
   "resources":[
     {"id":{"name":"menu_font","path":"fonts/menu_font/menu_font.yy",},},
+    {"id":{"name":"background_object","path":"objects/background_object/background_object.yy",},},
     {"id":{"name":"button_parent","path":"objects/button_parent/button_parent.yy",},},
     {"id":{"name":"continue_button","path":"objects/continue_button/continue_button.yy",},},
     {"id":{"name":"enemy_object","path":"objects/enemy_object/enemy_object.yy",},},
@@ -59,6 +60,7 @@
     {"id":{"name":"main_menu_room","path":"rooms/main_menu_room/main_menu_room.yy",},},
     {"id":{"name":"pause_screen_room","path":"rooms/pause_screen_room/pause_screen_room.yy",},},
     {"id":{"name":"starting_room","path":"rooms/starting_room/starting_room.yy",},},
+    {"id":{"name":"background_sprite","path":"sprites/background_sprite/background_sprite.yy",},},
     {"id":{"name":"basic_button_sprite","path":"sprites/basic_button_sprite/basic_button_sprite.yy",},},
     {"id":{"name":"basic_ememy_sprite_idle","path":"sprites/basic_ememy_sprite_idle/basic_ememy_sprite_idle.yy",},},
     {"id":{"name":"basic_enemy_sprite","path":"sprites/basic_enemy_sprite/basic_enemy_sprite.yy",},},
@@ -77,6 +79,6 @@
   ],
   "templateType":"game",
   "TextureGroups":[
-    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"png","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
   ],
 }
