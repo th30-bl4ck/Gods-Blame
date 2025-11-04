@@ -9,7 +9,7 @@ if (instance_exists(player_object)) {
 
     // how close before stopping
     var stop_distance = 5; // stop moving when this close
-    var start_distance = 350; // start moving when this close (you can change this)
+    var start_distance = 240; // start moving when this close (you can change this)
 
     // only follow the player if they're within the start distance
     if (dist < start_distance) {
