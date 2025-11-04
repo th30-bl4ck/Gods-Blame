@@ -36,7 +36,6 @@
     {"name":"platform_object","order":1,"path":"objects/platform_object/platform_object.yy",},
     {"name":"pause_screen_room","order":2,"path":"rooms/pause_screen_room/pause_screen_room.yy",},
     {"name":"starting_room","order":1,"path":"rooms/starting_room/starting_room.yy",},
-    {"name":"background_sprite","order":1,"path":"sprites/background_sprite/background_sprite.yy",},
     {"name":"invisible_wall_sprite","order":1,"path":"sprites/invisible_wall_sprite/invisible_wall_sprite.yy",},
     {"name":"platform_sprite","order":2,"path":"sprites/platform_sprite/platform_sprite.yy",},
     {"name":"player_sprite_idle","order":2,"path":"sprites/player_sprite_idle/player_sprite_idle.yy",},
