@@ -47,6 +47,7 @@
   "name":"Gods Blame",
   "resources":[
     {"id":{"name":"menu_font","path":"fonts/menu_font/menu_font.yy",},},
+    {"id":{"name":"test_font","path":"fonts/test_font/test_font.yy",},},
     {"id":{"name":"background_object","path":"objects/background_object/background_object.yy",},},
     {"id":{"name":"button_parent","path":"objects/button_parent/button_parent.yy",},},
     {"id":{"name":"continue_button","path":"objects/continue_button/continue_button.yy",},},
@@ -69,6 +70,7 @@
     {"id":{"name":"platform_sprite","path":"sprites/platform_sprite/platform_sprite.yy",},},
     {"id":{"name":"player_sprite_idle","path":"sprites/player_sprite_idle/player_sprite_idle.yy",},},
     {"id":{"name":"player_sprite_walking","path":"sprites/player_sprite_walking/player_sprite_walking.yy",},},
+    {"id":{"name":"settings_button_sprite","path":"sprites/settings_button_sprite/settings_button_sprite.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
