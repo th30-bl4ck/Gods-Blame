@@ -38,7 +38,7 @@
     {"name":"starting_room","order":1,"path":"rooms/starting_room/starting_room.yy",},
     {"name":"invisible_wall_sprite","order":1,"path":"sprites/invisible_wall_sprite/invisible_wall_sprite.yy",},
     {"name":"platform_sprite","order":2,"path":"sprites/platform_sprite/platform_sprite.yy",},
-    {"name":"player_sprite_idle","order":2,"path":"sprites/player_sprite_idle/player_sprite_idle.yy",},
-    {"name":"player_sprite_walking","order":1,"path":"sprites/player_sprite_walking/player_sprite_walking.yy",},
+    {"name":"player_sprite_falling","order":1,"path":"sprites/player_sprite_falling/player_sprite_falling.yy",},
+    {"name":"player_sprite_twaddle","order":2,"path":"sprites/player_sprite_twaddle/player_sprite_twaddle.yy",},
   ],
 }
