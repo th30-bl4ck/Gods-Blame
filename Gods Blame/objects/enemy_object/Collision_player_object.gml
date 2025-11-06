@@ -1,2 +1,2 @@
-frozen = true;
-alarm[0] = room_speed * 1; // freeze for 1 second
+// Collision Event with obj_player
+stun_timer = room_speed * 2; // stunned for 2 seconds (room_speed = frames per second)

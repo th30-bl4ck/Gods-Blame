@@ -28,7 +28,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"background_object","order":3,"path":"objects/background_object/background_object.yy",},
+    {"name":"test_font","order":1,"path":"fonts/test_font/test_font.yy",},
     {"name":"button_parent","order":1,"path":"objects/button_parent/button_parent.yy",},
     {"name":"continue_button","order":2,"path":"objects/continue_button/continue_button.yy",},
     {"name":"enemy_object","order":1,"path":"objects/enemy_object/enemy_object.yy",},
