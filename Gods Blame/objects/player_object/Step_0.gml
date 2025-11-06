@@ -139,9 +139,6 @@ if (e != noone && !is_knocked) {
     kb_timer = kb_duration;
 }
 
-// =========================
-//  PREVENT CLIMBING ON ENEMY
-// =========================
 if (place_meeting(x, y, enemy_object) && !is_knocked) {
     // If you're colliding horizontally with the enemy,
     // stop horizontal movement to prevent climbing.
