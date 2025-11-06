@@ -14,3 +14,5 @@ is_knocked    = false;
 kb_timer      = 0;
 kb_dir        = 0;
 kb_speed      = 0;
+
+facing = 1; // 1 = right, -1 = left

@@ -186,3 +186,25 @@ var target_x = player_object.x - camera_get_view_width(cam)/2;
 var target_y = player_object.y - camera_get_view_height(cam)/2;
 
 camera_set_view_pos(cam, target_x, target_y);
+
+// Movement input
+var move = 0;
+
+var move = 0;
+
+// --- Handle input ---
+if (keyboard_check(ord("A"))) {
+    move = -1;
+    facing = -1; // Face left
+} 
+else if (keyboard_check(ord("D"))) {
+    move = 1;
+    facing = 1; // Face right
+}
+
+// --- Apply movement ---
+x += move * move_speed;
+
+// --- Apply facing direction ---
+image_xscale = facing;
+
