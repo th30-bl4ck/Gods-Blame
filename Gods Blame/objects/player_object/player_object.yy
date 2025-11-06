@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"player_sprite_twaddle",
-    "path":"sprites/player_sprite_twaddle/player_sprite_twaddle.yy",
+    "name":"player_sprite_idle",
+    "path":"sprites/player_sprite_idle/player_sprite_idle.yy",
   },
   "spriteMaskId":null,
   "visible":true,
