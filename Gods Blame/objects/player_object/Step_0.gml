@@ -214,12 +214,3 @@ var move = (keyboard_check(ord("D"))) - (keyboard_check(ord("A")));
 // Move player
 x += move * 4; // change 4 to your speed
 
-// Animation control
-if (move == 0) {
-    // Standing still
-    sprite_index = player_sprite_idle;
-} else {
-    // Moving
-    sprite_index = player_sprite_walking;
-    image_xscale = sign(move); // makes player face left/right
-}

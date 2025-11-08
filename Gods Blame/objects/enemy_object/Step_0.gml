@@ -14,12 +14,12 @@ if (instance_exists(player_object)) {
         }
         exit;
     }
-
+}
     // Only check horizontal distance (ignore vertical)
     var dist = abs(player_object.x - x);
 
     var stop_distance = 6;
-    var start_distance = 260;
+    var start_distance = 200;
     var move_speed = 1.5;
 
     if (dist > stop_distance && dist < start_distance) {
@@ -31,11 +31,10 @@ if (instance_exists(player_object)) {
         }
     }
 
-    // Flip sprite to face player without stretching
+ // Flip sprite to face player without stretching
     var base_scale = abs(image_xscale);
     if (player_object.x < x) {
         image_xscale = -base_scale;
     } else {
         image_xscale = base_scale;
     }
-}

@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"basic_enemy_sprite",
-    "path":"sprites/basic_enemy_sprite/basic_enemy_sprite.yy",
+    "name":"basic_enemy_sprite_walking",
+    "path":"sprites/basic_enemy_sprite_walking/basic_enemy_sprite_walking.yy",
   },
   "spriteMaskId":null,
   "visible":true,

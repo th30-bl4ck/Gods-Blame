@@ -17,4 +17,5 @@ kb_speed      = 0;
 
 facing = 1; // 1 = right, -1 = left
 
+image_xscale = 0.5;
 image_yscale = 1;
